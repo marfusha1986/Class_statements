@@ -1,0 +1,14 @@
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\obj\Debug\net8.0\ClassStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\obj\Debug\net8.0\ClassStatements.AssemblyInfoInputs.cache
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\obj\Debug\net8.0\ClassStatements.AssemblyInfo.cs
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\obj\Debug\net8.0\ClassStatements.csproj.CoreCompileInputs.cache
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\bin\Debug\net8.0\ClassStatements.exe
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\bin\Debug\net8.0\ClassStatements.deps.json
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\bin\Debug\net8.0\ClassStatements.runtimeconfig.json
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\bin\Debug\net8.0\ClassStatements.dll
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\bin\Debug\net8.0\ClassStatements.pdb
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\obj\Debug\net8.0\ClassStatements.dll
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\obj\Debug\net8.0\refint\ClassStatements.dll
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\obj\Debug\net8.0\ClassStatements.pdb
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\obj\Debug\net8.0\ClassStatements.genruntimeconfig.cache
+C:\Users\Marfa\source\repos\ClassStatements\ClassStatements\obj\Debug\net8.0\ref\ClassStatements.dll
